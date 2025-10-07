@@ -23,5 +23,3 @@ Key goals:
 - Fallback / safety logic (limits, disclaimers, out-of-domain handling)  
 
 
-```bash
-pip install -r requirements.txt
